@@ -1,5 +1,8 @@
 _repo: Eug-nie-Grandet_11049
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -24,6 +27,8 @@ description: "Eugénie Grandet is an 1833 novel by French author Honoré de Balz
   \ which he also dedicated to Maria Du Fresnay, his then-lover and mother of his\
   \ daughter Marie-Caroline Du Fresnay, and, as was proved later on, the \"real\"\
   \ Eugénie Grandet.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11049#Eug-nie-Grandet
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
